@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://duan-opalcity.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-UkZ1WkJqef8/W__2-WHapUI/AAAAAAAAABE/7gwgFUsv2TwYVL8C1gIThNy2uiCDw9HWwCLcBGAs/s1600/opal-city.jpg' width='500px'/><br/>13 DANG KY TU VAN CAN NO OPAL CITY</a>. Lien he:  h. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://duan-opalcity.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-UkZ1WkJqef8/W__2-WHapUI/AAAAAAAAABE/7gwgFUsv2TwYVL8C1gIThNy2uiCDw9HWwCLcBGAs/s1600/opal-city.jpg' width='500px'/><br/>ĐĂNG KÝ TƯ VẤN CĂN HỘ OPAL CITY</a>. LIÊN HỆ: 0907 165 913 h. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
