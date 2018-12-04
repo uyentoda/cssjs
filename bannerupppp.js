@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://duan-everdecity.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-LH1BwxQ5cRM/XAYftYfDO_I/AAAAAAAAADU/CgraEeSt8fwG7WQv8p2SX6V_kb556OVYgCLcBGAs/s1600/everde-city-mat-bang-tong-the.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://duan-everdecity.blogspot.com/' target='_blank'><img src='https://1.bp.blogspot.com/-LH1BwxQ5cRM/XAYftYfDO_I/AAAAAAAAADU/CgraEeSt8fwG7WQv8p2SX6V_kb556OVYgCLcBGAs/s1600/everde-city-mat-bang-tong-the.jpg' width='500px'/><br/>Đất nền nhà phố và Đất nền shophouse</a>. Giá giai đoạn đầu. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
