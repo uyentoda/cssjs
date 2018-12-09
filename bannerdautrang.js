@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://2.bp.blogspot.com/-xvCNCQ6KVLI/XA0G2o3IxBI/AAAAAAAABg4/hBsUEqGh6-w0XEmS2LwxRKAK7thgpiXjACLcBGAs/s1600/everde-city-mat-bang-tong-the-dat-nen.jpg' width='500px'/><br/>ĐĂNG KÝ DỰ ÁN EVERDE CITY</a>.DỰ ÁN GIAI ĐOẠN ĐẦU TIÊN - CÔNG BỐ NGÀY 12/1/2018. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
