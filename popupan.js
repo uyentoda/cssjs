@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://duan-opalcity.blogspot.com/';
+	var url_popup = 'https://bit.ly/2r37SFT';
 
       //<![CDATA[
-	  // var url_ppp = 'https://duan-opalcity.blogspot.com/';
+	  // var url_ppp = 'http://duan-everdecity.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
